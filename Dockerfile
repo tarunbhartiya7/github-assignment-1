@@ -1,4 +1,4 @@
-FROM hshar/webapp
+FROM tarunbhartiya7/webapp
 
 RUN rm /var/www/html/*.*
 
